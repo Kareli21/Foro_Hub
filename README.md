@@ -51,7 +51,7 @@ Con nuestro POST enviamos la requisición para generar un registro de usuario, q
 Además el sistema cuenta con validaciones para evitar la duplicidad de topicos 🚫
 
 
-
+## Disfruta con nuestro sistema de Foro Hub 🙋
 
 
 
